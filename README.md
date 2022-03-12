@@ -1,4 +1,5 @@
 - 👋 Hi, Here is a collection of random thoughts, predominantly tech for humans
+- :octocat: [GitHub Profile](https://github.com/avanathan)
 - 📫 Reach me [here](https://www.linkedin.com/in/avanathan/) ...
 
 <!---
